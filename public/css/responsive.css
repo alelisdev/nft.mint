@@ -1,0 +1,309 @@
+
+@media (max-width: 480px) {
+
+}
+
+@media (max-width: 767px) {
+.logo{
+  
+  width: 100px;
+
+  }
+
+.nav-item{
+
+  padding: 10px 0;
+
+}
+
+.navbar-nav{
+
+  align-items: unset !important;
+
+}
+
+.nav-custom{
+
+  padding: 0;
+  height: auto;
+
+}
+
+.stick-icon,.stick-icon-right{
+
+  display: none;
+
+}
+
+.order-xs-2{
+
+  order: 2;
+
+}
+
+
+.order-xs-1{
+
+  order:1;
+
+}
+
+
+.section-padding {
+  padding: 3rem 0;
+
+}
+
+  .main-section{
+
+    padding: 50px 0;
+
+  }
+
+  .title h1 {
+    
+    font-size: 30px;
+    line-height: 40px;
+   
+}
+
+.section-img,.main-img img{
+
+  width: 200px;
+
+}
+
+.main-title p {
+
+  font-size: 10px;
+
+}
+
+
+
+
+.custom-tp,.custom-btn  {
+
+  font-size: 12px;
+  padding: 10px 12px;
+  margin-right: 10px !important;
+
+}
+
+.social-btn img{
+
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+
+
+}
+
+
+.stars{
+
+  display: none;
+
+}
+
+.info-box-details h3 {
+
+  font-size: 30px;
+}
+
+.lg-title {
+
+  font-size: 25px;
+  line-height: 30px;
+}
+
+
+.img-grp img {
+  width: 135px;
+}
+
+
+.subscribe input::placeholder{
+
+
+font-size: 12px;
+}
+
+
+.submit-ab{
+
+  width: 35%;
+
+  padding: 14px 10px;
+  font-size: 12px;
+
+}
+
+
+.social-btn ul li{
+
+  margin-bottom: 10px;
+
+}
+
+.footer-bottom-child{
+
+  text-align: center;
+  flex-direction: column;
+
+}
+
+
+.roadmap-sm-hide
+
+
+{
+
+  display: none;
+
+}
+
+}
+
+@media (min-width:768px){
+
+  .roadmap-list{
+
+    display: none;
+
+  }
+
+} 
+@media (max-width: 991px) and (min-width: 768px) {
+
+
+  .order-xs-2{
+
+    order: 2;
+  
+  }
+  
+  
+  .order-xs-1{
+  
+    order:1;
+  
+  }
+  
+  .stick-icon,.stick-icon-right {
+
+    opacity: 0.5;
+    top: 0;
+  }
+  
+  .main-section{
+
+    padding: 50px 0;
+
+  }
+
+
+  .stars img:nth-child(1) {
+
+    position: absolute;
+    right: 30px;
+   
+  }
+  
+
+.stars img:nth-child(2) {
+
+
+  right: 0;
+ 
+}
+
+}
+@media (max-width: 1200px) and (min-width: 991px) {
+ 
+
+  .logo{
+
+    width: 200px;
+
+  }
+
+  .nav-item{
+
+    padding: 0 10px;
+
+  }
+  
+
+  .custom-tp,.custom-btn  {
+
+    font-size: 12px;
+    padding: 10px 12px;
+    margin-right: 10px !important;
+  
+  }
+  
+
+  .info-box-details h3 {
+
+    font-size: 30px;
+  }
+
+
+  .social-btn ul li{
+
+    margin-bottom: 10px;
+  
+  }
+
+
+  .subscribe input::placeholder{
+
+
+    font-size: 15px;
+    }
+    
+    
+    .submit-ab{
+    
+      width: 35%;
+      padding: 14px 10px;
+      font-size: 15px;
+    
+    }
+
+    .footer-menu li{
+
+      font-size: 12px;
+
+    }
+
+    .lg-title{
+
+      font-size: 40px;
+
+    }
+
+    .social-btn img{
+
+      padding: 10px;
+      width: 40px;
+      height: 40px;
+    
+    
+    }
+    
+}
+
+
+@media (max-width: 1440px) and (min-width: 1200px) {
+
+
+  .social-btn ul li{
+
+    margin-bottom: 10px;
+  
+  }
+
+
+}
